@@ -308,7 +308,10 @@ padding: 0 15px;
 .footer{
 	height: 125vh;
 }
-
+main h3{
+	
+	margin-top: 25px;
+}
 
 header{
 	background: #ddd;
